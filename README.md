@@ -70,7 +70,7 @@ File – Build Settings – Chose your platform – Build and Run.</p>
 
 <hr>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>w</kbd> <br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>w</kbd> <br>
 <strong>Move</strong> : <kbd>a</kbd><kbd>s</kbd><kbd>d</kbd> + <kbd>Mouse</kbd> <br>
 <strong>Pick a weapon</strong> : <kbd>e</kbd> <br>
 <strong>Release a weapon</strong> : <kbd>Mouse right</kbd> <br>
